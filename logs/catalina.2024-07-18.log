@@ -1,0 +1,180 @@
+18-Jul-2024 19:07:00.339 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.33
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 11 2020 09:31:38 UTC
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.33.0
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 11
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Users\mineh\.jdks\corretto-1.8.0_422\jre
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           1.8.0_422-b05
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Amazon.com Inc.
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:07:00.345 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:07:00.353 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\temp
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\logging.properties
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -javaagent:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\lib\idea_rt.jar=58911:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\bin
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dfile.encoding=UTF-8
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [1.2.23] en utilisant APR version [1.7.0]
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Fonctionnalités d'APR: IPv6 [true], sendfile [true], accept filters [false], random [true]
+18-Jul-2024 19:07:00.354 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Configuration de APR/OpenSSL: useAprConnector [false], useOpenSSL [true]
+18-Jul-2024 19:07:00.380 INFOS [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 1.1.1c  28 May 2019]
+18-Jul-2024 19:07:00.865 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:07:01.239 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1 257] millisecondes
+18-Jul-2024 19:07:01.299 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+18-Jul-2024 19:07:01.300 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.33]
+18-Jul-2024 19:07:01.309 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml]
+18-Jul-2024 19:07:01.475 AVERTISSEMENT [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Version [6.0] inconnue, utilisation de la version par défaut
+18-Jul-2024 19:07:02.448 INFOS [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+18-Jul-2024 19:07:02.522 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml] a pris [1 211] ms
+18-Jul-2024 19:07:02.528 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:07:02.542 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [1 302] millisecondes
+18-Jul-2024 19:11:59.207 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+18-Jul-2024 19:11:59.500 INFOS [Thread-4] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+18-Jul-2024 19:11:59.533 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:11:59.538 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:12:14.989 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.33
+18-Jul-2024 19:12:14.992 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 11 2020 09:31:38 UTC
+18-Jul-2024 19:12:14.992 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.33.0
+18-Jul-2024 19:12:14.992 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 11
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Users\mineh\.jdks\corretto-1.8.0_422\jre
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           1.8.0_422-b05
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Amazon.com Inc.
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:12:14.993 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\temp
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\logging.properties
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -javaagent:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\lib\idea_rt.jar=58966:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\bin
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dfile.encoding=UTF-8
+18-Jul-2024 19:12:15.000 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [1.2.23] en utilisant APR version [1.7.0]
+18-Jul-2024 19:12:15.002 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Fonctionnalités d'APR: IPv6 [true], sendfile [true], accept filters [false], random [true]
+18-Jul-2024 19:12:15.002 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Configuration de APR/OpenSSL: useAprConnector [false], useOpenSSL [true]
+18-Jul-2024 19:12:15.008 INFOS [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 1.1.1c  28 May 2019]
+18-Jul-2024 19:12:15.543 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:12:16.098 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1 496] millisecondes
+18-Jul-2024 19:12:16.188 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+18-Jul-2024 19:12:16.188 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.33]
+18-Jul-2024 19:12:16.210 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\ROOT.xml]
+18-Jul-2024 19:12:16.530 AVERTISSEMENT [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Version [6.0] inconnue, utilisation de la version par défaut
+18-Jul-2024 19:12:17.808 INFOS [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+18-Jul-2024 19:12:17.888 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\ROOT.xml] a pris [1 678] ms
+18-Jul-2024 19:12:17.892 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:12:17.903 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [1 804] millisecondes
+18-Jul-2024 19:14:41.507 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+18-Jul-2024 19:14:41.994 INFOS [Thread-4] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+18-Jul-2024 19:14:42.012 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:14:42.015 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:16:57.580 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.33
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 11 2020 09:31:38 UTC
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.33.0
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 11
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Users\mineh\.jdks\corretto-1.8.0_422\jre
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           1.8.0_422-b05
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Amazon.com Inc.
+18-Jul-2024 19:16:57.586 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:16:57.587 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:16:57.588 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:16:57.588 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:16:57.588 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\temp
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\logging.properties
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -javaagent:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\lib\idea_rt.jar=59227:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\bin
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dfile.encoding=UTF-8
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [1.2.23] en utilisant APR version [1.7.0]
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Fonctionnalités d'APR: IPv6 [true], sendfile [true], accept filters [false], random [true]
+18-Jul-2024 19:16:57.589 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Configuration de APR/OpenSSL: useAprConnector [false], useOpenSSL [true]
+18-Jul-2024 19:16:57.597 INFOS [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 1.1.1c  28 May 2019]
+18-Jul-2024 19:16:58.065 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:16:58.530 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1 326] millisecondes
+18-Jul-2024 19:16:58.587 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+18-Jul-2024 19:16:58.587 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.33]
+18-Jul-2024 19:16:58.598 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml]
+18-Jul-2024 19:16:58.807 AVERTISSEMENT [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Version [6.0] inconnue, utilisation de la version par défaut
+18-Jul-2024 19:16:59.828 INFOS [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+18-Jul-2024 19:16:59.917 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml] a pris [1 319] ms
+18-Jul-2024 19:16:59.921 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:16:59.940 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [1 408] millisecondes
+18-Jul-2024 19:20:05.386 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+18-Jul-2024 19:20:05.822 INFOS [Thread-4] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+18-Jul-2024 19:20:05.837 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:20:05.840 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:35:14.099 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.33
+18-Jul-2024 19:35:14.103 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 11 2020 09:31:38 UTC
+18-Jul-2024 19:35:14.104 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.33.0
+18-Jul-2024 19:35:14.104 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 11
+18-Jul-2024 19:35:14.104 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+18-Jul-2024 19:35:14.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Jul-2024 19:35:14.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Users\mineh\.jdks\corretto-1.8.0_422\jre
+18-Jul-2024 19:35:14.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           1.8.0_422-b05
+18-Jul-2024 19:35:14.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Amazon.com Inc.
+18-Jul-2024 19:35:14.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:35:14.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\temp
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\logging.properties
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -javaagent:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\lib\idea_rt.jar=59610:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\bin
+18-Jul-2024 19:35:14.107 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dfile.encoding=UTF-8
+18-Jul-2024 19:35:14.108 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [1.2.23] en utilisant APR version [1.7.0]
+18-Jul-2024 19:35:14.108 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Fonctionnalités d'APR: IPv6 [true], sendfile [true], accept filters [false], random [true]
+18-Jul-2024 19:35:14.108 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Configuration de APR/OpenSSL: useAprConnector [false], useOpenSSL [true]
+18-Jul-2024 19:35:14.117 INFOS [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 1.1.1c  28 May 2019]
+18-Jul-2024 19:35:14.646 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:35:15.216 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1 474] millisecondes
+18-Jul-2024 19:35:15.287 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+18-Jul-2024 19:35:15.288 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.33]
+18-Jul-2024 19:35:15.302 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml]
+18-Jul-2024 19:35:15.546 AVERTISSEMENT [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Version [6.0] inconnue, utilisation de la version par défaut
+18-Jul-2024 19:35:16.816 INFOS [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+18-Jul-2024 19:35:16.885 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml] a pris [1 583] ms
+18-Jul-2024 19:35:16.888 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:35:16.903 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [1 687] millisecondes
+18-Jul-2024 19:35:42.566 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+18-Jul-2024 19:35:42.799 INFOS [Thread-4] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+18-Jul-2024 19:35:42.808 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:35:42.809 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:43:37.097 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:        Apache Tomcat/9.0.33
+18-Jul-2024 19:43:37.100 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé:       Mar 11 2020 09:31:38 UTC
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur:      9.0.33.0
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS:           Windows 11
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de l'OS:        10.0
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Répertoire de Java:     C:\Users\mineh\.jdks\corretto-1.8.0_422\jre
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version de la JVM:           1.8.0_422-b05
+18-Jul-2024 19:43:37.101 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM:            Amazon.com Inc.
+18-Jul-2024 19:43:37.102 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:43:37.102 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:43:37.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.home=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\Ressouces\apache-tomcat-9.0.33
+18-Jul-2024 19:43:37.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dcatalina.base=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024
+18-Jul-2024 19:43:37.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.io.tmpdir=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\temp
+18-Jul-2024 19:43:37.105 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.config.file=D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\logging.properties
+18-Jul-2024 19:43:37.106 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+18-Jul-2024 19:43:37.106 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -javaagent:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\lib\idea_rt.jar=59986:D:\Installation Software\Installations\IntelliJ IDEA 2024.1\bin
+18-Jul-2024 19:43:37.106 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande: -Dfile.encoding=UTF-8
+18-Jul-2024 19:43:37.106 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Chargement de la librairie Apache Tomcat Native [1.2.23] en utilisant APR version [1.7.0]
+18-Jul-2024 19:43:37.106 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Fonctionnalités d'APR: IPv6 [true], sendfile [true], accept filters [false], random [true]
+18-Jul-2024 19:43:37.106 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Configuration de APR/OpenSSL: useAprConnector [false], useOpenSSL [true]
+18-Jul-2024 19:43:37.113 INFOS [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL a été initialisé avec succès [OpenSSL 1.1.1c  28 May 2019]
+18-Jul-2024 19:43:37.498 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:43:37.925 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [1 155] millisecondes
+18-Jul-2024 19:43:37.986 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+18-Jul-2024 19:43:37.986 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets: [Apache Tomcat/9.0.33]
+18-Jul-2024 19:43:38.000 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml]
+18-Jul-2024 19:43:38.168 AVERTISSEMENT [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Version [6.0] inconnue, utilisation de la version par défaut
+18-Jul-2024 19:43:39.022 INFOS [main] org.apache.jasper.servlet.TldScanner.scanJars Au moins un fichier JAR a été analysé pour trouver des TLDs mais il n'en contenait pas, le mode "debug" du journal peut être activé pour obtenir une liste complète de JAR scannés sans succès; éviter d'analyser des JARs inutilement peut améliorer sensiblement le temps de démarrage et le temps de compilation des JSPs
+18-Jul-2024 19:43:39.068 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [D:\DITI4 AVEC LE GROUPE ISI\ADVANCED OOPS JAVA\S2\TP\jee-app-2024\conf\Catalina\localhost\jee-app-2024.xml] a pris [1 068] ms
+18-Jul-2024 19:43:39.072 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 19:43:39.080 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [1 154] millisecondes
+18-Jul-2024 21:40:06.181 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+18-Jul-2024 21:40:06.549 INFOS [Thread-4] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+18-Jul-2024 21:40:06.572 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+18-Jul-2024 21:40:06.583 INFOS [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]

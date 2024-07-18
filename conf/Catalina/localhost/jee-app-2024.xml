@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="D:/DITI4 AVEC LE GROUPE ISI/ADVANCED OOPS JAVA/S2/TP/jee-app-2024/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="D:/DITI4 AVEC LE GROUPE ISI/ADVANCED OOPS JAVA/S2/TP/jee-app-2024/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/mineh/.m2/repository/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/mysql-connector-j-8.0.32.jar"/>
+    <PostResources base="C:/Users/mineh/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/protobuf-java-3.21.9.jar"/>
+  </Resources>
+</Context>
